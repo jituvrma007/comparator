@@ -1,5 +1,4 @@
-# JSON Comparator Utility - Api Assignment For SDET
-
+# JSON Comparator Utility
 This is a comparator project which can be used to compare 2 API responses. The input to this project should be two files with request URLs. 
 <br/> Each file should contain (HTTP/HTTPS) API's separated by a new line.
 
